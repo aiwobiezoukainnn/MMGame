@@ -18,7 +18,7 @@ CustomSprite::CustomSprite()
 }
 CustomSprite::~CustomSprite()
 {
-    
+    /*hi, everybody, can you help me to learn the git. thank you for you helping*/
     Director::getInstance()->getEventDispatcher()->removeEventListenersForTarget(this);
 }
 
