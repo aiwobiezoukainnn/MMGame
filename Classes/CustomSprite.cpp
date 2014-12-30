@@ -22,6 +22,8 @@ CustomSprite::~CustomSprite()
     Director::getInstance()->getEventDispatcher()->removeEventListenersForTarget(this);
 
     /*i can do it */
+    /* just do it */
+    /*use the commit -a  to save the changes*/
 }
 
  CustomSprite *CustomSprite::createWithPath(const std::string &path)
